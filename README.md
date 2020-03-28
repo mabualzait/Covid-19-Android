@@ -39,3 +39,4 @@ Since Google restrict app distribution about covid-19 on Google Play Store, we w
 
 ### Contributing
 Just make pull request. You are in!
+# Covid-19-Android
