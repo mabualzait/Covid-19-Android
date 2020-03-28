@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">حالة العالم</string>
+    <string name="action_ok">موافق</string>
+    <string name="action_cancel">تجاهل</string>
+    <string name="message_user_unauthorized">You already login into another device</string>
+    <string name="msg_unexpected_error">جاري التحديث</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="confirmed_case_count">الحالات الموثقة : %1$s</string>
+    <string name="recovered_case_count">الحالات المعالجة : %1$s</string>
+    <string name="death_case_count">الوفيات : %1$s</string>
+    <string name="information_last_update">اخر تحديث %1$s</string>
+    <string name="information_location_total_case"> "Total %1$s cases on China and %2$s on the other location"</string>
+    <string name="visitable_recycler_adapter_unregistered_message">
+        Resource %1$s.xml not registered on VisitableRecyclerAdapter!
+    </string>
+    <string name="type_city_province_region">قم بكتابة اسم البلد او المقاطعة …</string>
+    <string name="case_reported">الحالات المسجلة</string>
+    <string name="tap_on_statistic">اضغط على الاحصائيات للمزيد من المعلومات\nمصدر المعلومات : https://covid19.mathdro.id/api/</string>
+    <string name="total_case">مجموع الحالات</string>
+    <string name="confirmed">الحالات الموثقة</string>
+    <string name="recovered">الحالات المعالجة</string>
+    <string name="deaths">الوفيات</string>
+    <string name="covid19">COVID19</string>
+    <string name="general_error_title">Snap!</string>
+    <string name="general_error_description">لقد حدث خطأ تقني</string>
+    <string name="connection_error_title">غير متصل بالانترنت</string>
+    <string name="connection_error_description">يوجد مشكلة بالاتصال بالانترنت</string>
+    <string name="retry">اعادة المحاولة</string>
+    <string name="zero">0</string>
+    <string-array name="detail_item_menu">
+        <item>تثبيت بالقائمة الرئيسية</item>
+    </string-array>
+    <string name="feedback_url" translatable="false">https://sites.google.com/view/malikabualzait/home</string>
+    <string name="feedback">تواصل</string>
+    <string name="daily_updates">التحديثات اليومية</string>
+    <string name="show_graph">Show Graph</string>
+    <string name="pinch_zoom">Pinch to zoom in or zoom out data</string>
+    <string name="unpin">Unpin</string>
+
+</resources>
+
